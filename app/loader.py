@@ -37,6 +37,6 @@ class LoaderData:
 
 
 #
-# d = LoaderData("mongodb+srv://IRGC:iraniraniran@iranmaldb.gurutam.mongodb.net/","IranMalDB")
+# d = LoaderData("mDB")
 # data = d.get_all()
 # print(data)
