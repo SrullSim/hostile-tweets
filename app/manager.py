@@ -5,7 +5,7 @@ import pandas as pd
 from pprint import pprint
 import os
 
-URI = os.getenv("HOST", "mongodb+srv://IRGC:iraniraniran@iranmaldb.gurutam.mongodb.net/")
+URI = os.getenv("HOST", "m")
 DB_NAME = os.getenv("DB_NAME", "IranMalDB")
 # PATH_TO_WEAPON_FILE = os.getenv("PATH", "..\data\weapon_list.txt")
 
