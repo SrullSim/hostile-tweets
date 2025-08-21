@@ -6,7 +6,7 @@ import nltk
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
 # for testing
-URI = os.getenv("URI", "mongodb+srv://IRGC:iraniraniran@iranmaldb.gurutam.mongodb.net/")
+URI = os.getenv("URI", "mo/")
 DB_NAME = os.getenv("DB_NAME", "IranMalDB")
 
 
@@ -83,7 +83,7 @@ class Processor:
 
 
 # # for testing
-# uri = "mongodb+srv://IRGC:iraniraniran@iranmaldb.gurutam.mongodb.net/"
+# uri = "t/"
 # db_name = "IranMalDB"
 # p = Processor()
 
